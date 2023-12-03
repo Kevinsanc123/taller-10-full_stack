@@ -4,10 +4,9 @@
 <p>Curso: full stack grupo 1</p>
 <p>Profesor: cristian patiño</p>
 
-
 <h2>punto-1: constantes y variables</h2>
 
- <img src="./public/images/punto-1.png" alt="punto-1></img>
+ <img src="./public/images/punto-1.png" alt="punto-1"></img>
 
 <h2>punto-2: Suma de Constantes y Variables</h2>
 
