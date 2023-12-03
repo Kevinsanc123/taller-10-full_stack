@@ -10,3 +10,4 @@ while($i <= 30) {
   echo $number . "X" . $i . " = " . $result . "\n";
   $i = $i + 1;
  }
+
