@@ -7,7 +7,7 @@
 
 <h2>punto-1: constantes y variables</h2>
 
-<a href="./public/images/punto-1.png">a</a>
+<a href="./Punto-1/public/imagenes/punto-1.png"></a>
 
 <h2>punto-2: Suma de Constantes y Variables</h2>
 
